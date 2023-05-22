@@ -1,0 +1,42 @@
+.box-shadow{
+    box-shadow: #5a6268 0px 3px 10px;
+}
+.border-radius{
+    border-radius: 5px 5px 0 0;
+}
+.margin-left-1{
+    margin-left: 1.5px !important;
+}
+.text-grey{
+    color: #6c7a8c;
+}
+.padding-r-2{
+    padding-left: -6px;
+    box-sizing: border-box;
+}
+.text-purple{
+    color: #ec8888;
+}
+.bg-gray{
+    background-color: #edeff3;
+}
+.bg-purple{
+    background-color: #ee8283;
+}
+.img{
+    background-image: url("../rasmlar/Twiggy.webp");
+    background-size: cover;
+    border-radius: 50%;
+}
+.icon{
+    background-image: url("../rasmlar/coffee.jpg");
+    background-size: cover;
+    background-color: #ebedf2;
+}
+.padding{
+    padding: 25px 20px;
+}
+.padding-b{
+    padding-top: -20px;
+    box-sizing: border-box;
+}

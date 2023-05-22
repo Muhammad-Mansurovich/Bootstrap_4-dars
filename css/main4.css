@@ -1,0 +1,20 @@
+img{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 3px;
+}
+.margin-auto{
+    margin-left: 860px;
+}
+.bg-blue{
+    background-image:
+            radial-gradient(circle at 100%, #2ca2f7 5%, #8ccce1 10%, #2eb5e8 25%, #8ccce1 35%, #2eb5e8 50%,#8ccce1 60%, #2eb5e8 65% );
+}
+.font{
+    font-size: 60px;
+}
+.font-button{
+    font-size: 13px;
+    padding: 10px 28px;
+    box-sizing: border-box;
+}
